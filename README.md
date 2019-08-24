@@ -3,6 +3,11 @@ A repo to document the process and references to DIY-build a walk-in shower in m
 Because the best contractor you can have for your house is yourself! and because why not! let's do and learn new shit!
 
 
+## Water-proofing options:
+- Kerdi
+- Vinyl liner
+- Hot mop
+
 
 ### Videos:
 
