@@ -11,7 +11,7 @@ Because the best contractor you can have for your house is yourself! and because
 
 ### Videos:
 
-- [Wedi system]()
+- [Wedi system](https://www.youtube.com/watch?v=X1GLQDPIA-E)
 - [4 types of shower water-proofing systems](https://www.youtube.com/watch?v=f0KkcorhcPM)
 - [Wedi system series - part 1](https://www.youtube.com/watch?v=3Eu_CD6YPfg)
 

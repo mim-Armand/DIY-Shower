@@ -30,12 +30,19 @@
 [-] - [Moen U system](https://www.amazon.com/Moen-TS3304TB-Connected-Bathroom-Controller/dp/B07QF65NVS) ~$1400
 [ ] - [Moen Magnetic shower head](https://www.amazon.com/dp/B07BRPL3PJ/ref=sspa_dk_detail_1)
 [-] - [Rain shower head](https://www.amazon.com/gp/product/B016DD2S98) ~$29
+[-] - [Weep Hole Protector](https://www.amazon.com/Shower-PWP-106-Diameter-Positive-Protector/dp/B00HNYA506) ~$9
 
 ==== Electric:
 [-] - [Wire stripper](https://www.amazon.com/gp/product/B00H7PQ8K2) ~$24
 [-] - [Non-Contact Voltage Tester](https://www.amazon.com/gp/product/B07N3R74Q) ~$13
 
+==== Sound system:
+[-] - [In-Wall Speakers x 2](https://www.amazon.com/gp/product/B00005T3BD) ~$150
+[-] - [14AWG CL2 99% Oxygen free copper Speaker Wire](https://www.amazon.com/gp/product/B00N18VBSI) ~$35
+[-] - [In-wall amplifier + Bluetooth receiver](https://www.amazon.com/gp/product/B07WK65VHM) ~$60
+
 ==== Water-proofing:
+[ ] - [Self-leveling underlayment]()
 [-] - [Brush roller frame](https://www.amazon.com/gp/product/B00002N6IZ) ~$7
 [-] - [Brush roller covers](https://www.amazon.com/gp/product/B07SWRJ1PD) ~$9
 
@@ -44,6 +51,7 @@
 [ ] - [Pneumatic foundatioFraming Nailer]()
 
 ==== Tiling:
+[ ] - [Stain resistant Epoxy Grout]()
 [ ] - [dilex eke profile ( for all edges )](https://www.google.com/search?q=dilex+eke+profile&rlz=1C5CHFA_enUS820US820&source=lnms&tbm=shop)
 [-] - [Aluminum Hawk](https://www.amazon.com/gp/product/B00002N5Q5) ~$25
 [-] - [Grout removal tool](https://www.amazon.com/gp/product/B000FK74R2) ~$13
